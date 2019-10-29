@@ -1,0 +1,24 @@
+{
+  "name": "bamazon-node-app",
+  "version": "1.0.0",
+  "description": "Homework 11 - bamazon-node-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msp9612/bamazon-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msp9612/bamazon-node-app/issues"
+  },
+  "homepage": "https://github.com/msp9612/bamazon-node-app#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}

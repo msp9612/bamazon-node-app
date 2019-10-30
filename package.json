@@ -20,5 +20,9 @@
   "devDependencies": {
     "eslint": "^6.6.0",
     "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "promise-mysql": "^4.1.1"
   }
 }

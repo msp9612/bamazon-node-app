@@ -17,5 +17,6 @@ module.exports = {
   },
   'rules': {
     'no-multiple-empty-lines': 'off',
+    'require-jsdoc': 'off'
   },
 };

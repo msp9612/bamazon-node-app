@@ -1,3 +1,3 @@
-const inquirer = require('inquirer');
+// const inquirer = require('inquirer');
 
-const DB = require('./DB');
+// const DB = require('./DB');

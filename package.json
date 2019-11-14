@@ -2,7 +2,7 @@
   "name": "bamazon-node-app",
   "version": "1.0.0",
   "description": "Homework 11 - bamazon-node-app",
-  "main": "index.js",
+  "main": "bamazonCustomer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/msp9612/bamazon-node-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matt Petrower",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/msp9612/bamazon-node-app/issues"
@@ -22,7 +22,8 @@
     "eslint-config-google": "^0.14.0"
   },
   "dependencies": {
+    "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
-    "promise-mysql": "^4.1.1"
+    "mysql": "^2.17.1"
   }
 }

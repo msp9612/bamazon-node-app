@@ -1,9 +1,0 @@
-{
-    "files.exclude": {
-        ".history": true
-    },
-    "eslint.autoFixOnSave": true,
-    "debug.node.autoAttach": "on",
-    "editor.tabSize": 2,
-    "editor.autoIndent": true,
-}

@@ -19,4 +19,4 @@ The app then resets and the user can make another purchase.
 
 # 
 
-[Github repository](https://github.com/msp9612/LIRINodeApp)
+[Github repository](https://github.com/msp9612/bamazon-node-app)
